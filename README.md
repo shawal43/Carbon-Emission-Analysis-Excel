@@ -30,5 +30,4 @@ An interactive Excel dashboard built to analyze global CO₂ emissions across co
 - # Project Objective
   
 - The goal of this project is to explore carbon emission patterns across countries and regions, identify major contributors, and present insights through an easy-to-use interactive Excel dashboard.
-
 - 
